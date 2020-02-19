@@ -5,9 +5,11 @@ using UnityEngine;
 public class OneTwoPanel1 : MonoBehaviour
 {
     public AudioSource applause;
+    public GameObject panel1;
     public GameObject panel2;
     public AudioSource sad_1;
-
+    
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -22,14 +24,28 @@ public class OneTwoPanel1 : MonoBehaviour
 
     public void TrueAnswer()
     {
-        sad_1.Stop();
+        
         applause.Play();
 
-        panel2.SetActive(true);
+
+
+        StartCoroutine(Waiter());
+
+
     }
 
     public void WrongAnswer()
     {
         sad_1.Play();
     }
+
+    IEnumerator Waiter()
+    {
+        yield return new WaitForSeconds(2);
+        panel1.SetActive(false);
+        panel2.SetActive(true);
+
+    } 
+
+    
 }
