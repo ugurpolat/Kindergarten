@@ -12,6 +12,7 @@ The mobile application which is developed within the scope of the project, is ai
 * [How to play](#how-to-play)
 
 ## General info
+
 Kindergarten game app is
 
 ## Curriculum
@@ -42,8 +43,9 @@ The Game consists of two parts.
 
       b) First two objects are compared. By using words such as heavier, lighter, the results of the comparison are expressed.
 
+---
 
-* Unit-2
+* Unit-2 (Not available for now)
 
   2.1. Natural numbers
 
