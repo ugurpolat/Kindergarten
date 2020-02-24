@@ -12,8 +12,8 @@ The mobile application which is developed within the scope of the project, is ai
 * [How to play](#how-to-play)
 
 ## General info
-
-Kindergarten game app is
+The Kindergarten app will help students learn by having fun at home or at school.
+Firstly, the subject of mathematics was chosen for the scope of mobile application. The application is aimed to consist of fun and simple game levels that will support the primary school 1st grade math curriculum.
 
 ## Curriculum
 
