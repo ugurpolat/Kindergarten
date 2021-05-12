@@ -10,6 +10,7 @@ The mobile application which is developed within the scope of the project, is ai
 * [General info](#general-info)
 * [Curriculum](#curriculum)
 * [How to play](#how-to-play)
+* [Test Class](#test-class)
 
 ## General info
 The Kindergarten app will help students learn by having fun at home or at school.
@@ -76,3 +77,5 @@ First-grade students do not read and write when they are start school if they ha
 ![](Screenshot_2.png)
 
 There is one app we can use for text-to-speech: https://apps.apple.com/us/app/text-to-speech/id712104788
+
+## Test Class
