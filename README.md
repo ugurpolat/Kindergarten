@@ -79,7 +79,7 @@ First-grade students do not read and write when they are start school if they ha
 There is one app we can use for text-to-speech: https://apps.apple.com/us/app/text-to-speech/id712104788
 
 ## Test Class
-![](1.png)
-![](2.png)
-![](3.png)
-![](4.png)
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+![](4.jpg)
